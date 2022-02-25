@@ -1,4 +1,12 @@
 {
   "name": "Faleristics",
-  "displayName": "Faleristics"
+  "displayName": "Фалеристика",
+  "svgAppIcon": {
+    "foregroundPath": "./src/assets/icon.svg",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "force": true
+  }
 }
