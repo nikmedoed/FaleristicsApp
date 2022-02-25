@@ -1274,11 +1274,6 @@
   dependencies:
     "nanoid" "^3.1.23"
 
-"@remobile/react-native-splashscreen@^1.0.8":
-  "integrity" "sha512-sc9Bxdrkclw3DXVJ6WzTwGVQgHdkDsYg3X9rAIPXIS7PQW6q/9eePM0/PD61aNysImOj88Gh7rpZmCnBKn0wPw=="
-  "resolved" "https://registry.npmjs.org/@remobile/react-native-splashscreen/-/react-native-splashscreen-1.0.8.tgz"
-  "version" "1.0.8"
-
 "@sideway/address@^4.1.3":
   "integrity" "sha512-8ncEUtmnTsMmL7z1YPB47kPUq7LpKWJNFPsRzHiIajGC5uXlWGn+AmkYPcHNl8S4tcEGx+cnORnNYaw2wvL+LQ=="
   "resolved" "https://registry.npmjs.org/@sideway/address/-/address-4.1.3.tgz"
@@ -6086,6 +6081,11 @@
     "react-native-gradle-plugin" "^0.0.3"
     "warn-once" "^0.1.0"
 
+"react-native-splash-screen@^3.3.0":
+  "integrity" "sha512-rGjt6HkoSXxMqH4SQUJ1gnPQlPJV8+J47+4yhgTIan4bVvAwJhEeJH7wWt9hXSdH4+VfwTS0GTaflj1Tw83IhA=="
+  "resolved" "https://registry.npmjs.org/react-native-splash-screen/-/react-native-splash-screen-3.3.0.tgz"
+  "version" "3.3.0"
+
 "react-native-svg-app-icon@^0.5.1":
   "integrity" "sha512-RKvPozLBt5tzsNs0p3d7smFxB1/V4ALpxCQ/PxboYr7IiojqMvDgOGilt9BP5fiDGNpBd1/Z3X2HVhxyNIo3Dg=="
   "resolved" "https://registry.npmjs.org/react-native-svg-app-icon/-/react-native-svg-app-icon-0.5.1.tgz"
@@ -6096,7 +6096,7 @@
     "sharp" ">=0.23.0"
     "svg2vectordrawable" "2.6.26"
 
-"react-native@*", "react-native@0.67.2":
+"react-native@*", "react-native@>=0.57.0", "react-native@0.67.2":
   "integrity" "sha512-grEtpOLLvtSg8Bivg0ffVRCjTkresqMt7Jdog/geF6VAYhb4RnLaaUCWvyrfyB9buf135FKnqg5BIuve/XQNXA=="
   "resolved" "https://registry.npmjs.org/react-native/-/react-native-0.67.2.tgz"
   "version" "0.67.2"
