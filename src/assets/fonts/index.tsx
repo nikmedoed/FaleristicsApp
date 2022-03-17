@@ -1,23 +1,23 @@
 
 const font = {
 	Black: 'Montserrat-Black',
-	Blackitalic: 'Montserrat-BlackItalic',
+	BlackItalic: 'Montserrat-BlackItalic',
 	Bold: 'Montserrat-Bold',
-	Bolditalic: 'Montserrat-BoldItalic',
-	Extrabold: 'Montserrat-ExtraBold',
-	Extrabolditalic: 'Montserrat-ExtraBoldItalic',
-	Extralight: 'Montserrat-ExtraLight',
-	Extralightitalic: 'Montserrat-ExtraLightItalic',
+	BoldItalic: 'Montserrat-BoldItalic',
+	ExtraBold: 'Montserrat-ExtraBold',
+	ExtraBoldItalic: 'Montserrat-ExtraBoldItalic',
+	ExtraLight: 'Montserrat-ExtraLight',
+	ExtraLightItalic: 'Montserrat-ExtraLightItalic',
 	Italic: 'Montserrat-Italic',
 	Light: 'Montserrat-Light',
-	Lightitalic: 'Montserrat-LightItalic',
+	LightItalic: 'Montserrat-LightItalic',
 	Medium: 'Montserrat-Medium',
-	Mediumitalic: 'Montserrat-MediumItalic',
+	MediumItalic: 'Montserrat-MediumItalic',
 	Regular: 'Montserrat-Regular',
-	Semibold: 'Montserrat-SemiBold',
-	Semibolditalic: 'Montserrat-SemiBoldItalic',
+	SemiBold: 'Montserrat-SemiBold',
+	SemiBoldItalic: 'Montserrat-SemiBoldItalic',
 	Thin: 'Montserrat-Thin',
-	Thinitalic: 'Montserrat-ThinItalic'
+	ThinItalic: 'Montserrat-ThinItalic'
 }
 
 export default font
