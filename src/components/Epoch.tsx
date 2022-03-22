@@ -1,17 +1,13 @@
 import React from 'react';
 import {
-    StatusBar,
     Text,
-    View,
-    Button,
     TouchableOpacity,
     Image
 } from 'react-native';
-
-
 import icons from "../assets/icons"
 import { colors, styleText, standartPadMar } from "../config/styles"
 import { EpochProps } from "../types"
+
 
 const Epoch = ({ imageUri, locked, name, years, onPress }: EpochProps) => {
 
@@ -49,8 +45,6 @@ const Epoch = ({ imageUri, locked, name, years, onPress }: EpochProps) => {
             <Text style={styleText.mainRegular}>{years}</Text>
         </TouchableOpacity>
     )
-
 }
-
 
 export default Epoch
